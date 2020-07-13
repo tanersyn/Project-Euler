@@ -1,6 +1,5 @@
 # 2520, kalanlar olmadan 1'den 10'a kadar olan sayıların her birine bölünebilen en küçük sayıdır.
 # 1'den 20'ye kadar olan tüm sayılarla eşit olarak bölünebilen en küçük pozitif sayı nedir?
-
 cevap=0
 sayi=1
 while cevap==0:
